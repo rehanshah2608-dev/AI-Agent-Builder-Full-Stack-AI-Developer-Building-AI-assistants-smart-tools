@@ -1,6 +1,5 @@
 # AI Creator Hub 🚀
-https://img.shields.io/github/repo-size/rehanshah2608-dev/AI-Agent-Builder-Full-Stack-AI-Developer-Building-AI-assistants-smart-tools?style=for-the-badge
-[GitHub repo size](https://img.shields.io/github/repo-size/rehanshah2608-dev/AI-Agent-Builder-Full-Stack-AI-Developer-Building-AI-assistants-smart-tools?style=for-the-badge)
+![GitHub stars](https://img.shields.io/github/stars/rehanshah2608-dev/AI-Agent-Builder-Full-Stack-AI-Developer-Building-AI-assistants-smart-tools?style=for-the-badge)
 
 AI-powered assistant built for education, smart tools, and creative AI workflows.
 
