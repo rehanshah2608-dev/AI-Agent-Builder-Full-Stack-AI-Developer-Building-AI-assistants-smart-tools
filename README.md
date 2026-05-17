@@ -21,3 +21,6 @@ AI-powered assistant built for education, smart tools, and creative AI workflows
 Abdul Kadir Jelani Abdul Rehman Shah
 
 Building AI agents and future-tech projects 🤖
+## Live Demo
+
+https://indrayani-infotech--rehanshah2608.replit.app
